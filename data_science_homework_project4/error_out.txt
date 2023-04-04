@@ -1,0 +1,2 @@
+[NbConvertApp] Converting notebook /Users/ame/Documents/cs220/p13/main.ipynb to notebook
+[NbConvertApp] Writing 247620 bytes to /Users/ame/Documents/cs220/p13/cs-220-test.ipynb
